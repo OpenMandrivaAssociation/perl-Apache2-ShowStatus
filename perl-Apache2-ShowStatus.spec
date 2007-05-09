@@ -3,7 +3,7 @@
 Summary:	Apache2::ShowStatus - if you want to know what your Apache processes are doing
 Name:		perl-%{real_name}
 Version:	0.02
-Release:	%mkrel 3
+Release:	%mkrel 4
 License:	GPL or Artistic
 Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{real_name}
