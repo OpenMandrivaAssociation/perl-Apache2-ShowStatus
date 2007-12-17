@@ -14,7 +14,6 @@ BuildRequires:	apache-mod_perl
 BuildRequires:  apache-mod_perl-devel
 BuildRequires:	perl(Apache::Test) >= 1.25
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 This module provides a "PerlInitHandler" that sets the apache's process
