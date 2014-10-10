@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	3
+Release:	4
 
 Summary:	Apache2::ShowStatus - if you want to know what your Apache processes are doing
 License:	GPL+ or Artistic
