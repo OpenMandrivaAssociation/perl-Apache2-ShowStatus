@@ -8,7 +8,7 @@ Release:	5
 Summary:	Apache2::ShowStatus - if you want to know what your Apache processes are doing
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/Apache2/%{upstream_name}-%{upstream_version}.tar.bz2
 
 BuildRequires:	apache-mod_perl
