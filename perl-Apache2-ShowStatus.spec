@@ -2,14 +2,14 @@
 %define upstream_version 0.02
 
 Name:		perl-%{upstream_name}
-Version:	%perl_convert_version %{upstream_version}
-Release:	5
+Version:	%{upstream_version}
+Release:	6
 
 Summary:	Apache2::ShowStatus - if you want to know what your Apache processes are doing
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		https://search.cpan.org/dist/%{upstream_name}
-Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/Apache2/%{upstream_name}-%{upstream_version}.tar.bz2
+Url:		https://metacpan.org/dist/Apache2-ShowStatus
+Source0:	https://cpan.metacpan.org/authors/id/O/OP/OPI/Apache2-ShowStatus-%{upstream_version}.tar.gz
 
 BuildRequires:	make
 BuildRequires:	apache-mod_perl
